@@ -6,7 +6,7 @@
 
 
 ## Meu nome é Ana Clara Fortes
-(Java | React JS | Javascript | HTML | CSS ) 🚀
+( PYTHON | HTML | CSS ) 🚀
 - 👩‍💻 Estudante de Desenvolvimento de Sistemas.
 - 🎥 Istagram: aninha_sf16
   
