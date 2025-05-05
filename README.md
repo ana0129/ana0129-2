@@ -8,14 +8,12 @@
 ## Meu nome é Ana Clara Fortes
 (Java | React JS | Javascript | HTML | CSS ) 🚀
 - 👩‍💻 Estudante de Desenvolvimento de Sistemas.
-- 🎥 Istagram [Instagram](https://www.instagram.com/aninha_sf16.dev/).
+- 🎥 Istagram: aninha_sf16
   
 
   
 
-<div align="left">
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+
   
  </div>
 
